@@ -4,6 +4,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "vbsSeminarska", "vbsSeminarska\vbsSeminarska.jsproj", "{118A8C65-52DA-4B0C-9570-F9C02D0C6485}"
 EndProject
 Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Debug|ARM = Debug|ARM
